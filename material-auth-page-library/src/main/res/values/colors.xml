@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorPrimary">#FAFAFA</color>
+    <color name="inputColor">#60FF4444</color>
+    <color name="icon">#ABFF4444</color>
+</resources>

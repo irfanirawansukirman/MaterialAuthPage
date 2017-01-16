@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">material-auth-page-library</string>
+    <string name="dummy_text">
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register"> Register</string>
+    <string name="new_here">New Here? </string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="re_type_password">Re-type password</string>
+</resources>
